@@ -10,7 +10,11 @@ packages/InfSeqExt/InfSeqExt.1.0/descr 0624c71f3d8316f10c4d66b8af93da00 0o664
 packages/InfSeqExt/InfSeqExt.1.0.1/url ca56b5f1a8ecff6118520aee92f57d93 0o664
 packages/InfSeqExt/InfSeqExt.1.0.1/opam ea12e4ecb014946272d7d78e33da12c7 0o664
 packages/InfSeqExt/InfSeqExt.1.0.1/descr 0624c71f3d8316f10c4d66b8af93da00 0o664
+packages/CompCert/CompCert.2.7.1/url 1cd73d136d07cce5a26c6d5d22e66548 0o664
+packages/CompCert/CompCert.2.7.1/opam a0f5fa34db5799e353af8f3a12047ec3 0o664
+packages/CompCert/CompCert.2.7.1/descr eb27ee94f86604a8bcbbeca9a88b9d9e 0o664
 archives/disel.1.0+opam.tar.gz 025fb75a25e772562e54a9f7c3d7b623 0o664
 archives/StructTact.1.0+opam.tar.gz 2d3f89fb95a525a684484b2bee5df67e 0o664
 archives/InfSeqExt.1.0.1+opam.tar.gz 537b87a955488d047bbe00ce759ccf15 0o664
 archives/InfSeqExt.1.0+opam.tar.gz 3c09693014b9f597010c9d980dc7d01f 0o664
+archives/CompCert.2.7.1+opam.tar.gz e5e65f81c9c5bf6577a0e349945d9951 0o664
