@@ -6,7 +6,7 @@ All Distributed Components OPAM packages live here.
 
 To activate the repository:
     ```
-    opam repo add distributed-components-packages http://opam.distributedcomponents.net
+    opam repo add distributedcomponents http://opam.distributedcomponents.net
     ```
 
 ## OPAM metadata
