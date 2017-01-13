@@ -1,5 +1,5 @@
-packages/verdi/verdi.1.0/url 1d0a43bb330e04e5118c8bd89ce05b7b 0o664
-packages/verdi/verdi.1.0/opam d8a0ff85039ccea7d3cdc338a91ae893 0o664
+packages/verdi/verdi.1.0/url 277f2646351c1c5621d61066329f7c27 0o664
+packages/verdi/verdi.1.0/opam 078fabd47ff39c3f163eae4d5a635a18 0o664
 packages/verdi/verdi.1.0/descr a3d09b6c3c06846dd303eb51be1de26a 0o664
 packages/verdi-runtime/verdi-runtime.1.0/url d002d04e09f8da33bbeb37b430e97c94 0o664
 packages/verdi-runtime/verdi-runtime.1.0/opam 307427f335bf5053527d949486d23303 0o664
@@ -17,7 +17,7 @@ packages/CompCert/CompCert.2.7.1/url 1cd73d136d07cce5a26c6d5d22e66548 0o664
 packages/CompCert/CompCert.2.7.1/opam 2a9b296bfe272883502e4ecbca070745 0o664
 packages/CompCert/CompCert.2.7.1/files/fix-coq-version.patch 5b955f6f0c955b6f5b39ff661fa71a60 0o664
 packages/CompCert/CompCert.2.7.1/descr eb27ee94f86604a8bcbbeca9a88b9d9e 0o664
-archives/verdi.1.0+opam.tar.gz 41cae4a1e1011a849339aaabe4ffc438 0o664
+archives/verdi.1.0+opam.tar.gz 7a36c5d1b1c5842d6d15af790c7e6292 0o664
 archives/verdi-runtime.1.0+opam.tar.gz d19e97d5ed483db8f277ceecb88d32c7 0o664
 archives/disel.1.0+opam.tar.gz 025fb75a25e772562e54a9f7c3d7b623 0o664
 archives/StructTact.1.0+opam.tar.gz 2d3f89fb95a525a684484b2bee5df67e 0o664
