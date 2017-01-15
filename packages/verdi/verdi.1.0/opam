@@ -1,11 +1,11 @@
 opam-version: "1.2"
-name: "Verdi"
-version: "1.0"
 maintainer: "palmskog@gmail.com"
+
 homepage: "https://github.com/uwplse/verdi"
 dev-repo: "https://github.com/uwplse/verdi.git"
 bug-reports: "https://github.com/uwplse/verdi/issues"
 license: "BSD"
+
 build: [
   [ "./configure" ]
   [ make "-j%{jobs}%" ]
@@ -18,11 +18,12 @@ depends: [
   "InfSeqExt" {>= "1.0.1"}
   "StructTact" {>= "1.0"}
 ]
+
 tags: [
   "category:Computer Science/Concurrent Systems and Protocols/Theory of concurrent systems"
   "keyword:program verification"
   "keyword:distributed algorithms"
-  "date:2017-01-13"
+  "date:2017-01-14"
 ]
 authors: [
   "James Wilcox <>"
