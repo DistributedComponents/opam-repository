@@ -4,9 +4,6 @@ packages/verdi/verdi.1.0/descr a3d09b6c3c06846dd303eb51be1de26a 0o664
 packages/verdi-runtime/verdi-runtime.1.0/url d002d04e09f8da33bbeb37b430e97c94 0o664
 packages/verdi-runtime/verdi-runtime.1.0/opam 45f055362870645ba99e8daab4ad4f89 0o664
 packages/verdi-runtime/verdi-runtime.1.0/descr 9ed193f31421ce0de276a40731dd3408 0o664
-packages/disel/disel.1.0/url 11c845adc247150ea3ddbae090c07bc2 0o664
-packages/disel/disel.1.0/opam 06bc6447d1a133852c7a88369d5d43ab 0o664
-packages/disel/disel.1.0/descr 8f8c4451f5767be534abb279bd91b63c 0o664
 packages/StructTact/StructTact.1.0/url f4ba44e74987aa417cd2a554c4820819 0o664
 packages/StructTact/StructTact.1.0/opam 6e088bb8a8376d70ec2316214421bf18 0o664
 packages/StructTact/StructTact.1.0/descr 8e46ee5fb8ceeb8df600042de530095f 0o664
@@ -15,6 +12,5 @@ packages/InfSeqExt/InfSeqExt.1.0.1/opam 132620d95850ad870d15d39cb294e520 0o664
 packages/InfSeqExt/InfSeqExt.1.0.1/descr 53e9603e241385c48aa85d7da1aa2486 0o664
 archives/verdi.1.0+opam.tar.gz 6e44d6fc9942ff89fb44ad14f29c9bc8 0o664
 archives/verdi-runtime.1.0+opam.tar.gz 5ac28bcf58529a3bd8d06d39b8ba6048 0o664
-archives/disel.1.0+opam.tar.gz 025fb75a25e772562e54a9f7c3d7b623 0o664
 archives/StructTact.1.0+opam.tar.gz 4645888417f739db8ccba8e668e533f5 0o664
 archives/InfSeqExt.1.0.1+opam.tar.gz 4e6620dbe34b15bfa6d6ecae128d1d39 0o664
